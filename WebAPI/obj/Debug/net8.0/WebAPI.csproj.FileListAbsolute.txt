@@ -42,7 +42,6 @@ E:\Навчання\ASP labs\BookingSln 4\WebAPI\obj\Debug\net8.0\staticwebasset
 E:\Навчання\ASP labs\BookingSln 4\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
 E:\Навчання\ASP labs\BookingSln 4\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
 E:\Навчання\ASP labs\BookingSln 4\WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
-E:\Навчання\ASP labs\BookingSln 4\WebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 E:\Навчання\ASP labs\BookingSln 4\WebAPI\obj\Debug\net8.0\WebAPI.csproj.Up2Date
 E:\Навчання\ASP labs\BookingSln 4\WebAPI\obj\Debug\net8.0\WebAPI.dll
 E:\Навчання\ASP labs\BookingSln 4\WebAPI\obj\Debug\net8.0\refint\WebAPI.dll
@@ -92,3 +91,4 @@ E:\Навчання\ASP labs\BookingSln 4\WebAPI\bin\Debug\net8.0\runtimes\win\l
 E:\Навчання\ASP labs\BookingSln 4\WebAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 E:\Навчання\ASP labs\BookingSln 4\WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 E:\Навчання\ASP labs\BookingSln 4\WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Навчання\ASP labs\BookingSln 4\WebAPI\obj\Debug\net8.0\WebAPI.sourcelink.json

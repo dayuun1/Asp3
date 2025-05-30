@@ -10,3 +10,4 @@ E:\Навчання\ASP labs\BookingSln 4\ClassLibrary\obj\Debug\net8.0\ClassLib
 E:\Навчання\ASP labs\BookingSln 4\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
 E:\Навчання\ASP labs\BookingSln 4\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
 E:\Навчання\ASP labs\BookingSln 4\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll
+E:\Навчання\ASP labs\BookingSln 4\ClassLibrary\obj\Debug\net8.0\ClassLibrary.sourcelink.json
